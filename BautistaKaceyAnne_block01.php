@@ -58,5 +58,3 @@ echo "Updated Age: " . $person->getAge() . "\n";
 
 $car = new Car("Toyota", "Camry", "(2020)");
 echo "Car Info: " . $car->getCarInfo()  ;
-
-?>
